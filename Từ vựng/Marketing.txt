@@ -1,0 +1,60 @@
+Attract(v): Thu hút
++ Exam: The display attracted a number of people at the convention.
++ convention: trung tâm, hội nghị
+
+Compare(v): so sánh, xem xét.
++ Exam:One the customer compared the two products, her choice was easy.
+
+Competition(n): Cuộc thi, sự cạnh tranh
++Exam: The company has decided not to join the growing competition for dominance in the semiconductor market.
++ dominance(n): sự thống trị (thường dùng cho phạm vi phổ biến hơn)
++ domination (n): sự thống trị (thường dùng cho phạm vi chính trị)
++ dominate (v): thống trị
++ semiconductor: link kiện bán dẫn
+
+Consume(v): Tiêu thụ, sử dụng.
++ Exam: This printer consumes more toner than the downstairs printer
++ toner: mực
+
+
+Convince(v): thuyết phục
++ Exam: the salesman conviced his customer to buy his entire inventory of pen
++ entire: toàn bộ
++ inventory: tồn kho
+
+Inspiration (n): Nguồn cảm hứng
++ Exam: His work is an inspiration to the marketing department
++ department: phòng ban
+
+Market (n): thị trường
++ Exam: The market for brightly colored clothing was brisk last year, but it's moving sluggishly this year.
++ brisk: sôi nổi, tăng nhanh
++ sluggish: chậm chạp, trì trệ
+
+Persuasion(n): Sự thuyết phục = convince
++ Exam: Under his persuasion, she returned to school for her MBA
+
+Productive(adj): Năng suất
++ Exam: Alonzo is excited about his productive staff.
+
+Satisfaction(n): sự hài lòng
++ Exam: Your satisfaction is guaranteed or you'll get your money back.
++ guarantee: đảm bảo, bảo hành
++ satisfactory(adj): thỏa đáng
+
+--------------------
++ specialist: chuyên gia
++ conduct: tiến hành
++ extensive(adj): rộng rãi - extension(n): sự mở rộng
++ particular: cụ thể, chi tiết 
++ manufacturers: nhà sx
++ indicate: biểu thị, cho thấy rằng
++ lack: thiếu
++ innovation(n): sự đổi mới - innovate (v): đổi mới
+
+* thing which(S) + V + O
+* Will + V (infi)
+* Danh từ đếm được ở dạng số ít cần có mạo từ đứng trước 
++ a/an/the
++ this/that
++ My/your/his/her/their
